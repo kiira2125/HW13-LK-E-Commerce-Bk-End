@@ -26,11 +26,13 @@ This project usage is for anyone that needs a back-end for their front-end e-com
 
 ## Instructions
 
-- If you would like to view a video on how to install and use, go to my [Youtube Channel](https://youtu.be/Uz7rW3B_2tg)
+- If you would like to view a video on how to install and use, go to my [Youtube Channel](.//images/)
 
 - Step 1: Clone this repository
 
-* ![step-1](images/step-1.png)
+ ***** // need to place images on all my steps// ***** 
+
+* ![step-1](images/step-1.png) 
 
 - Step 2: Install dependencies with 'npm install'
 

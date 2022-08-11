@@ -19,3 +19,5 @@ Tag.init(
         modelName: 'tag',
     }
 );   
+
+module.exports = Tag;

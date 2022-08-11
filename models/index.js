@@ -8,7 +8,7 @@ Product.belong(Category, {
     foreignKey: 'category_id',
 });
 
-// use .hasmany(), to categorize products
+// use .hasMany(), to categorize products
 Category.hasMany(Product,{
     foreignKey: 'category_id',
 });
