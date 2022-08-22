@@ -10,15 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajcuddeback/E-commerce-Back-End.git"
-  },
+    "url": "https://github.com/kiira2125/HW13-LK-E-Commerce-Bk-End"
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ajcuddeback/E-commerce-Back-End/issues"
+    "url": "https://github.com/kiira2125/HW13-LK-E-Commerce-Bk-End"
   },
-  "homepage": "https://github.com/ajcuddeback/E-commerce-Back-End#readme",
+  "homepage": "https://github.com/kiira2125/E-commerce-Back-End#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
